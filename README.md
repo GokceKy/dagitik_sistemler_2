@@ -1,4 +1,4 @@
-Daha detaylı anlatım ve görsel açıklama için aşağıdaki YouTube videosunu izleyebilirsiniz:  
+Daha detaylı anlatım ve görsel açıklama için aşağıdaki hazırladığım YouTube videosunu izleyebilirsiniz:  
 [https://youtu.be/dNX8OuMTa_Q](https://youtu.be/dNX8OuMTa_Q)
 # MPI vs. OpenMP Performans Karşılaştırması
 
